@@ -1,20 +1,19 @@
-# Términos de Servicio de PyLearn - Aprende Python
+# Términos de Servicio de PyAcademy - Aprende Python
 
-**Última actualización:** 14 de Octubre de 2025
+**Última actualización:** 3 de febrero de 2026
 
 ## 1. Aceptación de los Términos
 
-Al descargar, instalar o usar PyLearn ("la aplicación"), aceptas estos Términos de Servicio. Si no estás de acuerdo con estos términos, no uses la aplicación.
+Al descargar, instalar o usar PyAcademy ("la aplicación"), aceptas estos Términos de Servicio. Si no estás de acuerdo con estos términos, no uses la aplicación.
 
 ## 2. Descripción del Servicio
 
-PyLearn es una aplicación educativa móvil que proporciona:
+PyAcademy es una aplicación educativa móvil que proporciona:
 - Quizzes interactivos de Python
 - Flashcards para memorización
 - Tutoriales paso a paso
 - Cheatsheets de referencia
 - Desafíos de código
-- Consola Python real (Pyodide)
 - Sistema de logros y gamificación
 
 ## 3. Licencia de Uso
@@ -39,7 +38,7 @@ NO puedes:
 
 ### 4.1 Propiedad del Contenido
 
-Todo el contenido educativo (quizzes, tutoriales, flashcards, etc.) es propiedad de PyLearn o sus licenciantes.
+Todo el contenido educativo (quizzes, tutoriales, flashcards, etc.) es propiedad de PyAcademy o sus licenciantes.
 
 ### 4.2 Precisión del Contenido
 
@@ -50,7 +49,7 @@ Hacemos nuestro mejor esfuerzo para proporcionar información precisa y actualiz
 
 ## 5. Uso Aceptable
 
-Al usar PyLearn, aceptas:
+Al usar PyAcademy, aceptas:
 - Usar la aplicación solo para propósitos legales y educativos
 - No intentar vulnerar la seguridad de la aplicación
 - No usar la aplicación de manera que pueda dañar, deshabilitar o sobrecargar nuestros servicios
@@ -76,7 +75,7 @@ La aplicación muestra anuncios a través de Google AdMob:
 
 ### 7.1 Aplicación Gratuita
 
-PyLearn es una aplicación gratuita:
+PyAcademy es una aplicación gratuita:
 - No hay compras dentro de la aplicación
 - No hay suscripciones
 - Todo el contenido es accesible sin pago
@@ -100,13 +99,13 @@ Todo tu progreso se guarda localmente en tu dispositivo.
 
 ### 9.1 Derechos de Autor
 
-PyLearn y todo su contenido están protegidos por derechos de autor y otras leyes de propiedad intelectual.
+PyAcademy y todo su contenido están protegidos por derechos de autor y otras leyes de propiedad intelectual.
 
 ### 9.2 Marcas Registradas
 
 - Python® es una marca registrada de la Python Software Foundation
 - Otros nombres de productos y servicios pueden ser marcas comerciales de sus respectivos propietarios
-- PyLearn no está afiliado con Python Software Foundation
+- PyAcademy no está afiliado con Python Software Foundation
 
 ## 10. Limitación de Responsabilidad
 
@@ -172,23 +171,22 @@ Podemos modificar estos términos en cualquier momento. Los cambios entran en vi
 
 Para preguntas sobre estos términos:
 
-**Email**: legal@pylearn.app  
-**GitHub**: https://github.com/pylearn/mobile-app  
-**Website**: https://pylearn.app
+**Email**: [lacriptadelhacker@gmail.com](mailto:lacriptadelhacker@gmail.com)  
+**Repositorio**: Consulta el repositorio del proyecto para issues y soporte.
 
 ---
 
-# Terms of Service for PyLearn - Learn Python
+# Terms of Service for PyAcademy - Learn Python
 
-**Last updated:** October 14, 2025
+**Last updated:** February 3, 2025
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using PyLearn ("the app"), you accept these Terms of Service. If you do not agree with these terms, do not use the app.
+By downloading, installing, or using PyAcademy ("the app"), you accept these Terms of Service. If you do not agree with these terms, do not use the app.
 
 ## 2. Description of Service
 
-PyLearn is a mobile educational application that provides:
+PyAcademy is a mobile educational application that provides:
 - Interactive Python quizzes
 - Flashcards for memorization
 - Step-by-step tutorials
@@ -219,7 +217,7 @@ You may NOT:
 
 ### 4.1 Content Ownership
 
-All educational content (quizzes, tutorials, flashcards, etc.) is property of PyLearn or its licensors.
+All educational content (quizzes, tutorials, flashcards, etc.) is property of PyAcademy or its licensors.
 
 ### 4.2 Content Accuracy
 
@@ -230,7 +228,7 @@ We make our best effort to provide accurate and up-to-date information, but:
 
 ## 5. Acceptable Use
 
-By using PyLearn, you agree to:
+By using PyAcademy, you agree to:
 - Use the app only for legal and educational purposes
 - Not attempt to compromise the app's security
 - Not use the app in a way that could damage, disable, or overload our services
@@ -256,7 +254,7 @@ The app displays ads through Google AdMob:
 
 ### 7.1 Free Application
 
-PyLearn is a free app:
+PyAcademy is a free app:
 - No in-app purchases
 - No subscriptions
 - All content accessible without payment
@@ -280,13 +278,13 @@ All your progress is saved locally on your device.
 
 ### 9.1 Copyright
 
-PyLearn and all its content are protected by copyright and other intellectual property laws.
+PyAcademy and all its content are protected by copyright and other intellectual property laws.
 
 ### 9.2 Trademarks
 
 - Python® is a registered trademark of the Python Software Foundation
 - Other product and service names may be trademarks of their respective owners
-- PyLearn is not affiliated with Python Software Foundation
+- PyAcademy is not affiliated with Python Software Foundation
 
 ## 10. Limitation of Liability
 
@@ -352,7 +350,6 @@ We may modify these terms at any time. Changes take effect upon posting. Continu
 
 For questions about these terms:
 
-**Email**: legal@pylearn.app  
-**GitHub**: https://github.com/pylearn/mobile-app  
-**Website**: https://pylearn.app
+**Email**: [lacriptadelhacker@gmail.com](mailto:lacriptadelhacker@gmail.com)  
+**Repository**: See the project repository for issues and support.
 

@@ -1,10 +1,10 @@
-# Política de Privacidad de PyLearn - Aprende Python
+# Política de Privacidad de PyAcademy - Aprende Python
 
-**Última actualización:** 14 de Octubre de 2025
+**Última actualización:** 3 de febrero de 2025
 
 ## 1. Introducción
 
-PyLearn ("nosotros", "nuestra" o "la aplicación") respeta tu privacidad y se compromete a protegerla mediante el cumplimiento de esta política de privacidad.
+PyAcademy ("nosotros", "nuestra" o "la aplicación") respeta tu privacidad y se compromete a protegerla mediante el cumplimiento de esta política de privacidad.
 
 Esta política describe:
 - Los tipos de información que podemos recopilar de ti cuando usas nuestra aplicación móvil
@@ -75,7 +75,7 @@ Nuestra aplicación es apta para todas las edades. No recopilamos intencionalmen
 
 ## 8. Contenido Offline
 
-PyLearn funciona completamente offline. Todo el contenido educativo está incluido en la aplicación:
+PyAcademy funciona completamente offline. Todo el contenido educativo está incluido en la aplicación:
 - Quizzes de Python
 - Flashcards
 - Tutoriales
@@ -102,17 +102,17 @@ Podemos actualizar nuestra política de privacidad ocasionalmente. Te notificare
 
 Si tienes preguntas sobre esta política de privacidad, contáctanos en:
 
-**Email**: lacriptadelhacker@gmail.com
+**Email**: [lacriptadelhacker@gmail.com](mailto:lacriptadelhacker@gmail.com)
 
 ---
 
 ## Privacy Policy (English)
 
-**Last updated:** October 14, 2025
+**Last updated:** February 3, 2025
 
 ### 1. Introduction
 
-PyLearn ("we", "our" or "the app") respects your privacy and is committed to protecting it through this privacy policy.
+PyAcademy ("we", "our" or "the app") respects your privacy and is committed to protecting it through this privacy policy.
 
 This policy describes:
 - The types of information we may collect from you when using our mobile application
@@ -183,7 +183,7 @@ Our app is suitable for all ages. We do not knowingly collect personal informati
 
 ### 8. Offline Content
 
-PyLearn works completely offline. All educational content is included in the app:
+PyAcademy works completely offline. All educational content is included in the app:
 - Python quizzes
 - Flashcards
 - Tutorials
@@ -210,4 +210,4 @@ We may update our privacy policy from time to time. We will notify you of any ch
 
 If you have questions about this privacy policy, contact us at:
 
-**Email**: lacriptadelhacker@gmail.com
+**Email**: [lacriptadelhacker@gmail.com](mailto:lacriptadelhacker@gmail.com)
