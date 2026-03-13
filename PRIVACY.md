@@ -29,22 +29,7 @@ Toda tu información de progreso se almacena EXCLUSIVAMENTE en tu dispositivo us
 
 ## 3. Servicios de Terceros
 
-### 3.1 Google AdMob
-
-Nuestra aplicación utiliza Google AdMob para mostrar anuncios. AdMob puede recopilar:
-- Identificador de publicidad (Advertising ID)
-- Información del dispositivo
-- Datos de ubicación aproximada (basada en IP)
-- Información de uso de la aplicación
-
-Para más información sobre cómo Google recopila y procesa datos:
-- [Política de Privacidad de Google](https://policies.google.com/privacy)
-- [Cómo Google usa los datos de sitios o aplicaciones que usan nuestros servicios](https://policies.google.com/technologies/partner-sites)
-
-Puedes optar por no recibir anuncios personalizados en:
-- Configuración de Android → Google → Anuncios → Desactivar personalización de anuncios
-
-### 3.2 Expo y React Native
+### 3.1 Expo y React Native
 
 La aplicación está construida con Expo y React Native. No enviamos datos de telemetría ni analytics a servidores de Expo.
 
@@ -59,7 +44,6 @@ La información que se almacena localmente se utiliza para:
 ## 5. Compartir Información
 
 **NO** compartimos tu información personal con terceros, excepto:
-- Datos anónimos de uso para AdMob (conforme a su política de privacidad)
 - Cuando sea requerido por ley
 
 ## 6. Seguridad de los Datos
@@ -83,7 +67,6 @@ PyAcademy funciona completamente offline. Todo el contenido educativo está incl
 - Desafíos de código
 
 No se requiere conexión a internet excepto para:
-- Cargar anuncios de AdMob
 - Ejecutar código Python en la consola (usa CDN de Pyodide)
 
 ## 9. Tus Derechos
@@ -137,22 +120,7 @@ All your progress information is stored EXCLUSIVELY on your device using:
 
 ### 3. Third-Party Services
 
-#### 3.1 Google AdMob
-
-Our app uses Google AdMob to display ads. AdMob may collect:
-- Advertising ID
-- Device information
-- Approximate location (IP-based)
-- App usage information
-
-For more information about how Google collects and processes data:
-- [Google Privacy Policy](https://policies.google.com/privacy)
-- [How Google uses data from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)
-
-You can opt out of personalized ads at:
-- Android Settings → Google → Ads → Opt out of Ads Personalization
-
-#### 3.2 Expo and React Native
+#### 3.1 Expo and React Native
 
 The app is built with Expo and React Native. We do not send telemetry or analytics data to Expo servers.
 
@@ -167,7 +135,6 @@ Information stored locally is used to:
 ### 5. Sharing Information
 
 We do **NOT** share your personal information with third parties, except:
-- Anonymous usage data for AdMob (according to their privacy policy)
 - When required by law
 
 ### 6. Data Security
@@ -191,7 +158,6 @@ PyAcademy works completely offline. All educational content is included in the a
 - Code challenges
 
 Internet connection is only required for:
-- Loading AdMob ads
 - Running Python code in console (uses Pyodide CDN)
 
 ### 9. Your Rights

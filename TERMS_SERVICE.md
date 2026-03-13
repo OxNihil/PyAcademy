@@ -55,35 +55,16 @@ Al usar PyAcademy, aceptas:
 - No usar la aplicación de manera que pueda dañar, deshabilitar o sobrecargar nuestros servicios
 - No usar bots, scripts o herramientas automatizadas
 
-## 6. Anuncios
+## 6. Compras y Monetización
 
-### 6.1 Google AdMob
+### 6.1 Modelo de Pago
 
-La aplicación muestra anuncios a través de Google AdMob:
-- Los anuncios ayudan a mantener la aplicación gratuita
-- Puedes obtener recompensas viendo anuncios
-- Los anuncios intersticiales aparecen ocasionalmente
-- Google AdMob está sujeto a su propia política de privacidad
+PyAcademy es una aplicación de pago:
+- Todo el contenido es accesible tras la compra de la aplicación
 
-### 6.2 Anuncios con Recompensa
+## 7. Cuentas de Usuario
 
-- Son completamente opcionales
-- Proporcionan beneficios en la aplicación (pistas, XP)
-- No son necesarios para acceder al contenido principal
-
-## 7. Compras y Monetización
-
-### 7.1 Aplicación Gratuita
-
-PyAcademy es una aplicación gratuita:
-- No hay compras dentro de la aplicación
-- No hay suscripciones
-- Todo el contenido es accesible sin pago
-- Los anuncios son la única fuente de monetización
-
-## 8. Cuentas de Usuario
-
-### 8.1 No Requiere Registro
+### 7.1 No Requiere Registro
 
 La aplicación NO requiere:
 - Crear una cuenta
@@ -91,40 +72,40 @@ La aplicación NO requiere:
 - Iniciar sesión
 - Conexión a redes sociales
 
-### 8.2 Datos Locales
+### 7.2 Datos Locales
 
 Todo tu progreso se guarda localmente en tu dispositivo.
 
-## 9. Propiedad Intelectual
+## 8. Propiedad Intelectual
 
-### 9.1 Derechos de Autor
+### 8.1 Derechos de Autor
 
 PyAcademy y todo su contenido están protegidos por derechos de autor y otras leyes de propiedad intelectual.
 
-### 9.2 Marcas Registradas
+### 8.2 Marcas Registradas
 
 - Python® es una marca registrada de la Python Software Foundation
 - Otros nombres de productos y servicios pueden ser marcas comerciales de sus respectivos propietarios
 - PyAcademy no está afiliado con Python Software Foundation
 
-## 10. Limitación de Responsabilidad
+## 9. Limitación de Responsabilidad
 
-### 10.1 Uso Bajo Tu Propio Riesgo
+### 9.1 Uso Bajo Tu Propio Riesgo
 
 La aplicación se proporciona "tal cual" sin garantías de ningún tipo:
 - No garantizamos que la aplicación esté libre de errores
 - No garantizamos disponibilidad ininterrumpida
 - No somos responsables de daños derivados del uso de la aplicación
 
-### 10.2 Contenido Educativo
+### 9.2 Contenido Educativo
 
 - El contenido es con fines informativos
 - No garantizamos resultados específicos de aprendizaje
 - No somos responsables de decisiones tomadas basándose en el contenido
 
-## 11. Actualizaciones de la Aplicación
+## 10. Actualizaciones de la Aplicación
 
-### 11.1 Derecho a Actualizar
+### 10.1 Derecho a Actualizar
 
 Podemos:
 - Actualizar la aplicación en cualquier momento
@@ -132,26 +113,26 @@ Podemos:
 - Modificar el contenido educativo
 - Corregir errores y mejorar rendimiento
 
-### 11.2 Notificaciones
+### 10.2 Notificaciones
 
 Te notificaremos de actualizaciones importantes a través de:
 - Notificaciones dentro de la aplicación
 - Notas de la versión en Play Store
 
-## 12. Terminación
+## 11. Terminación
 
-### 12.1 Por Tu Parte
+### 11.1 Por Tu Parte
 
 Puedes dejar de usar la aplicación en cualquier momento desinstalándola.
 
-### 12.2 Por Nuestra Parte
+### 11.2 Por Nuestra Parte
 
 Podemos suspender o terminar tu acceso si:
 - Violas estos términos de servicio
 - Usas la aplicación de manera fraudulenta o ilegal
 - Es requerido por ley
 
-## 13. Contenido de Código Abierto
+## 12. Contenido de Código Abierto
 
 La aplicación puede incluir componentes de código abierto sujetos a sus propias licencias:
 - React Native (MIT License)
@@ -159,15 +140,15 @@ La aplicación puede incluir componentes de código abierto sujetos a sus propia
 - Pyodide (Mozilla Public License 2.0)
 - Otras bibliotecas listadas en nuestro repositorio GitHub
 
-## 14. Ley Aplicable
+## 13. Ley Aplicable
 
 Estos términos se rigen por las leyes aplicables en tu jurisdicción.
 
-## 15. Cambios a estos Términos
+## 14. Cambios a estos Términos
 
 Podemos modificar estos términos en cualquier momento. Los cambios entran en vigor al publicarse. El uso continuado de la aplicación implica aceptación de los nuevos términos.
 
-## 16. Contacto
+## 15. Contacto
 
 Para preguntas sobre estos términos:
 
@@ -234,35 +215,16 @@ By using PyAcademy, you agree to:
 - Not use the app in a way that could damage, disable, or overload our services
 - Not use bots, scripts, or automated tools
 
-## 6. Advertising
+## 6. Purchases and Monetization
 
-### 6.1 Google AdMob
+### 6.1 Paid Application
 
-The app displays ads through Google AdMob:
-- Ads help keep the app free
-- You can earn rewards by watching ads
-- Interstitial ads appear occasionally
-- Google AdMob is subject to its own privacy policy
+PyAcademy is a paid app:
+- All content is accessible after purchasing the app
 
-### 6.2 Rewarded Ads
+## 7. User Accounts
 
-- Completely optional
-- Provide in-app benefits (hints, XP)
-- Not necessary to access main content
-
-## 7. Purchases and Monetization
-
-### 7.1 Free Application
-
-PyAcademy is a free app:
-- No in-app purchases
-- No subscriptions
-- All content accessible without payment
-- Ads are the only monetization source
-
-## 8. User Accounts
-
-### 8.1 No Registration Required
+### 7.1 No Registration Required
 
 The app does NOT require:
 - Creating an account
@@ -270,40 +232,40 @@ The app does NOT require:
 - Logging in
 - Social network connection
 
-### 8.2 Local Data
+### 7.2 Local Data
 
 All your progress is saved locally on your device.
 
-## 9. Intellectual Property
+## 8. Intellectual Property
 
-### 9.1 Copyright
+### 8.1 Copyright
 
 PyAcademy and all its content are protected by copyright and other intellectual property laws.
 
-### 9.2 Trademarks
+### 8.2 Trademarks
 
 - Python® is a registered trademark of the Python Software Foundation
 - Other product and service names may be trademarks of their respective owners
 - PyAcademy is not affiliated with Python Software Foundation
 
-## 10. Limitation of Liability
+## 9. Limitation of Liability
 
-### 10.1 Use at Your Own Risk
+### 9.1 Use at Your Own Risk
 
 The app is provided "as is" without warranties of any kind:
 - We do not guarantee the app is error-free
 - We do not guarantee uninterrupted availability
 - We are not responsible for damages resulting from app use
 
-### 10.2 Educational Content
+### 9.2 Educational Content
 
 - Content is for informational purposes
 - We do not guarantee specific learning outcomes
 - We are not responsible for decisions made based on the content
 
-## 11. App Updates
+## 10. App Updates
 
-### 11.1 Right to Update
+### 10.1 Right to Update
 
 We may:
 - Update the app at any time
@@ -311,26 +273,26 @@ We may:
 - Modify educational content
 - Fix bugs and improve performance
 
-### 11.2 Notifications
+### 10.2 Notifications
 
 We will notify you of important updates through:
 - In-app notifications
 - Play Store release notes
 
-## 12. Termination
+## 11. Termination
 
-### 12.1 By You
+### 11.1 By You
 
 You can stop using the app anytime by uninstalling it.
 
-### 12.2 By Us
+### 11.2 By Us
 
 We may suspend or terminate your access if:
 - You violate these terms of service
 - You use the app fraudulently or illegally
 - Required by law
 
-## 13. Open Source Content
+## 12. Open Source Content
 
 The app may include open-source components subject to their own licenses:
 - React Native (MIT License)
@@ -338,15 +300,15 @@ The app may include open-source components subject to their own licenses:
 - Pyodide (Mozilla Public License 2.0)
 - Other libraries listed in our GitHub repository
 
-## 14. Governing Law
+## 13. Governing Law
 
 These terms are governed by applicable laws in your jurisdiction.
 
-## 15. Changes to These Terms
+## 14. Changes to These Terms
 
 We may modify these terms at any time. Changes take effect upon posting. Continued use of the app implies acceptance of new terms.
 
-## 16. Contact
+## 15. Contact
 
 For questions about these terms:
 
